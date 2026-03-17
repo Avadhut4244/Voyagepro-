@@ -1,0 +1,12 @@
+package com.voyagepro.voyagepro_backend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class VoyageproBackendApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(VoyageproBackendApplication.class, args);
+	}
+
+}
